@@ -1,0 +1,2 @@
+# corePython
+start learning python
